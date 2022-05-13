@@ -1,8 +1,11 @@
 
 
 function Button (props) {   
+
     return (
-     <h1> hello </h1>
+        <div>
+            <button onClick={props.handleClick}>Click for Giphy!</button>
+        </div>
     )
 }
 
