@@ -1,4 +1,4 @@
-# [React Giphy API]
+# [React Giphy API](https://github.com/germanokuerten/react-giphy-api/)
 <!-- (https://ondarox-manager.herokuapp.com/) -->
 
 Click on the button and retrieve a random giphy.
@@ -24,7 +24,6 @@ Home            |
 | App Name | React Giphy API |
 | Description | React Giphy API allows you to retrieve a random gif for personal enjoyment |
 | Developers | Germano Kuerten |
-| Live Website |  |
 | Repo | https://github.com/germanokuerten/react-giphy-api |
 
 >"Simplicity Is the key to brilliance." - Bruce Lee
