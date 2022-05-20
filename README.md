@@ -13,7 +13,7 @@ Click on the button and retrieve a random giphy.
 
 ## Diagram
 
-Home            | 
+Diagram            | 
 :-------------------------:|
 ![](./public/giphyDiagram.jpg)  |
 
